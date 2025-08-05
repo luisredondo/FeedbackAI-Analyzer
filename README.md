@@ -61,10 +61,19 @@ uv run python evaluation/run_all_retrievers.py
 
 ## 📁 Project Structure
 ```
-├── python-backend/     # FastAPI + LangGraph backend
-├── frontend/          # Next.js chat interface
-├── DELIVERABLES.md    # Project documentation
-└── MERGE.md          # Integration instructions
+├── python-backend/               # FastAPI + LangGraph backend
+│   ├── backend/                 # Core application code
+│   │   ├── agent/              # LangGraph agentic system
+│   │   │   ├── tools/          # Agent tools (RAG search, web search)
+│   │   │   └── storage/        # Vector storage (Qdrant integration)
+│   │   ├── models/             # Pydantic data models
+│   │   └── data/               # Synthetic feedback dataset
+│   ├── evaluation/             # RAG evaluation framework
+│   ├── results/                # Evaluation performance reports
+│   └── scripts/                # Utility scripts (data generation)
+├── frontend/                    # Next.js chat interface
+├── DELIVERABLES.md             # Project documentation
+└── MERGE.md                    # Integration instructions
 ```
 
 ## 🛠️ Development

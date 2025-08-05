@@ -1,0 +1,470 @@
+feedback_id,source,date,user_id,feedback_text,sentiment
+FB-001,Support Ticket,2024-06-05,user-639,I really appreciate the updated search feature! It's so much faster and more intuitive now.,Positive
+FB-002,App Store Review,2024-08-10,user-661,"The app is decent, but I need more advanced filtering options to manage my tasks effectively.",Neutral
+FB-003,Survey,2024-06-21,user-126,Automated backup features would be a great addition! I often worry about losing my data.,Positive
+FB-004,Twitter Mention,2025-03-18,user-958,Just discovered the advanced reporting templates! They make my life so much easier.,Positive
+FB-005,Support Ticket,2024-12-10,user-629,The mobile web interface is still a bit clunky. It needs some optimization for better usability.,Negative
+FB-006,App Store Review,2024-04-04,user-610,I love the way the search feature works now! It has saved me hours of time.,Positive
+FB-007,Survey,2025-02-22,user-309,It would be nice to have more customization options for the reporting templates.,Neutral
+FB-008,Twitter Mention,2025-07-12,user-264,I'm really frustrated with the lack of automated backup features. I need to ensure my data is safe.,Negative
+FB-009,Support Ticket,2024-09-15,user-650,Great job on improving the mobile experience! It's much more user-friendly now.,Positive
+FB-010,App Store Review,2024-11-26,user-828,The reporting options are okay but could really use some advanced templates for better insights.,Neutral
+FB-011,Survey,2024-05-23,user-784,"The search feature is fantastic, but the mobile interface could still use some tweaks.",Neutral
+FB-012,Twitter Mention,2025-05-25,user-948,Can we get an option for advanced filtering? It would make project management way easier.,Neutral
+FB-013,Support Ticket,2024-07-18,user-407,"The new dashboard is fantastic! However, automated backups would make me feel even more secure.",Positive
+FB-014,App Store Review,2025-01-23,user-554,"Nice updates overall, but I find the reporting templates to be quite basic.",Negative
+FB-015,Survey,2025-04-18,user-355,"The mobile version is improving, but I wish it had all the same features as the desktop.",Neutral
+FB-016,Twitter Mention,2024-09-22,user-392,Loving the new search feature! Makes finding tasks so much quicker.,Positive
+FB-017,Support Ticket,2024-02-14,user-708,I submitted a request for advanced filtering options but haven't heard back.,Negative
+FB-018,App Store Review,2025-06-12,user-698,"This tool is great for project management, but I really miss the automated backup feature.",Negative
+FB-019,Survey,2024-03-20,user-114,The advanced reporting templates could use some templates that cater to marketing teams.,Neutral
+FB-020,Twitter Mention,2024-08-17,user-572,Just a suggestion: automated backups would be a game changer for many users!,Positive
+FB-021,Support Ticket,2024-03-26,user-490,The mobile web interface crashes often and needs to be more stable.,Negative
+FB-022,App Store Review,2025-06-03,user-894,"The app is solid, though the advanced filtering options could be more extensive.",Neutral
+FB-023,Survey,2024-11-01,user-248,"It's nice to see improvements to the search feature, but I'm still waiting on better reporting tools.",Neutral
+FB-024,Twitter Mention,2024-10-25,user-650,The current reporting templates aren’t very insightful. Can we have more advanced options?,Negative
+FB-025,Support Ticket,2025-05-07,user-900,I really like the quick search function! It's one of my favorite updates.,Positive
+FB-026,App Store Review,2024-12-17,user-410,"While the app is functional, I’d love to see automated backups to protect my projects.",Negative
+FB-027,Survey,2024-08-05,user-347,The updated mobile web interface is a big improvement over the previous version.,Positive
+FB-028,Twitter Mention,2024-01-17,user-721,Thanks for the improved search feature! It's much easier to navigate now.,Positive
+FB-029,Support Ticket,2024-04-04,user-822,The lack of advanced filtering options is frustrating. It makes tracking tasks harder.,Negative
+FB-030,App Store Review,2025-02-21,user-429,Really enjoying the new search capabilities. Makes my workflow a lot smoother.,Positive
+FB-031,Survey,2025-05-08,user-727,"I think the app needs better reporting features, especially for larger teams.",Neutral
+FB-032,Twitter Mention,2024-04-20,user-276,Can we have a dark mode for the mobile app? It would really help.,Neutral
+FB-033,Support Ticket,2025-02-26,user-148,"I appreciate the faster search, but missing reports makes it hard to analyze progress.",Negative
+FB-034,App Store Review,2024-04-09,user-145,The new reporting templates are great! Just need more variety for data presentation.,Positive
+FB-035,Survey,2024-04-27,user-954,"The mobile interface is better, but I still find some features hard to access.",Neutral
+FB-036,Twitter Mention,2024-01-31,user-646,I wish I could auto-backup my projects. It's a bit nerve-wracking not having that option.,Negative
+FB-037,Support Ticket,2025-01-19,user-408,The new advanced reporting options have helped me in my presentations! Thank you!,Positive
+FB-038,App Store Review,2024-06-19,user-404,"The search feature is a big plus, but more filtering options are needed to refine results.",Neutral
+FB-039,Survey,2024-06-19,user-582,"Overall, it's a decent tool, but the mobile version lacks some essential features.",Neutral
+FB-040,Twitter Mention,2024-05-10,user-430,Just wanted to say the new search feature is awesome! So fast and effective.,Positive
+FB-041,Support Ticket,2024-11-04,user-247,I really need automated backups! It's a must-have for serious project management.,Negative
+FB-042,App Store Review,2024-09-11,user-734,Happy with the updates! Just need more advanced reporting templates to satisfy my needs.,Neutral
+FB-043,Survey,2024-01-04,user-240,The app could really benefit from better mobile optimization.,Neutral
+FB-044,Twitter Mention,2024-01-12,user-296,"Wow, the search function has improved significantly! Makes life so much easier.",Positive
+FB-045,Support Ticket,2024-10-06,user-360,The filters available are too basic. I need to narrow down search results more effectively.,Negative
+FB-046,App Store Review,2024-08-04,user-104,The improved reporting features are fantastic! Super helpful for tracking progress.,Positive
+FB-047,Survey,2025-05-01,user-431,"I think the mobile interface is okay, but it could use more features from the desktop version.",Neutral
+FB-048,Twitter Mention,2025-04-13,user-394,I’ve been waiting for a dark mode forever! Hope it comes soon.,Neutral
+FB-049,Support Ticket,2025-05-16,user-596,"The new dashboard is clear, but I find the reporting options limited.",Neutral
+FB-050,App Store Review,2024-12-07,user-581,I love that the search feature is faster! It really enhances my productivity.,Positive
+FB-051,Survey,2024-08-18,user-867,It would be awesome to have more automated backup options to protect our data.,Positive
+FB-052,Twitter Mention,2024-03-10,user-278,"The app is fairly good, but I'm disappointed with the mobile interface's performance.",Negative
+FB-053,Support Ticket,2025-07-02,user-771,Please consider adding advanced filtering options; it would help a lot!,Neutral
+FB-054,App Store Review,2024-04-02,user-514,"Great functionality overall, but I still miss the automated backup feature.",Negative
+FB-055,Survey,2024-10-24,user-185,The new search feature is a lifesaver! I can find what I need quickly now.,Positive
+FB-056,Twitter Mention,2024-06-01,user-891,Can we get some advanced reporting templates? They would look more professional.,Neutral
+FB-057,Support Ticket,2024-06-14,user-988,The mobile app needs more features that are available on the desktop version.,Negative
+FB-058,App Store Review,2024-01-19,user-894,"I like the improved search feature, but the reporting templates are too basic.",Neutral
+FB-059,Survey,2025-05-24,user-300,Automated backups would definitely ease my worries about data loss.,Positive
+FB-060,Twitter Mention,2024-10-25,user-871,The search function is so much better now! Kudos to the team.,Positive
+FB-061,Support Ticket,2024-05-11,user-138,I'm really hoping you add advanced filtering soon; it would be a huge help.,Neutral
+FB-062,App Store Review,2025-01-27,user-325,"Overall, this is a good tool, but I need more from the reporting side.",Neutral
+FB-063,Survey,2024-02-03,user-488,"The mobile web interface is decent, but needs some more functionality.",Neutral
+FB-064,Twitter Mention,2024-09-23,user-458,What happened to the backup feature? It was really useful before.,Negative
+FB-065,Support Ticket,2024-09-21,user-174,The improved search is a game changer! I can actually find my tasks.,Positive
+FB-066,App Store Review,2024-08-21,user-564,Loving the new design! Just wish the reporting options were more advanced.,Neutral
+FB-067,Survey,2024-10-31,user-606,The app is solid; just need better mobile optimization for easier access.,Neutral
+FB-068,Twitter Mention,2024-12-08,user-155,The search feature is on point! Thank you for the improvement!,Positive
+FB-069,Support Ticket,2024-05-29,user-866,The lack of automated backup is concerning. Please implement this feature soon.,Negative
+FB-070,App Store Review,2025-03-13,user-247,Great updates! More advanced reporting templates would be the cherry on top.,Neutral
+FB-071,Survey,2024-12-04,user-559,"The mobile web interface is getting better, but it's still not perfect.",Neutral
+FB-072,Twitter Mention,2024-08-06,user-173,Just tried out the improved search feature – it’s fantastic!,Positive
+FB-073,Support Ticket,2024-10-17,user-849,I can't believe there are no advanced filtering options. It's quite limiting.,Negative
+FB-074,App Store Review,2025-07-03,user-790,"Pretty good overall, but the mobile version needs some serious work.",Negative
+FB-075,Survey,2025-04-30,user-230,"I appreciate the updates, but I still feel like we need more reporting tools.",Neutral
+FB-076,Twitter Mention,2024-04-25,user-860,The new search function is awesome! Makes everything so much easier to manage.,Positive
+FB-077,Support Ticket,2025-02-28,user-217,Can you please prioritize the automated backup feature? It's essential for us.,Negative
+FB-078,App Store Review,2025-03-28,user-550,"Happy with the search improvement, but the reporting templates need to be enhanced.",Neutral
+FB-079,Survey,2024-11-19,user-702,"The mobile interface is an improvement, but still has a way to go.",Neutral
+FB-080,Twitter Mention,2025-07-19,user-779,Just a thought: advanced filtering options would help a ton with project tracking.,Neutral
+FB-081,Support Ticket,2024-06-04,user-407,I'm very satisfied with the upgraded search feature! It makes finding tasks easier.,Positive
+FB-082,App Store Review,2024-09-18,user-486,"I like the changes, but I’m still not seeing the reporting features I need.",Neutral
+FB-083,Survey,2024-04-20,user-601,Automated backups would bring me peace of mind when using this app.,Positive
+FB-084,Twitter Mention,2025-06-14,user-776,The new search feature is a highlight for me! Keep up the good work!,Positive
+FB-085,Support Ticket,2025-05-09,user-208,The app needs better reporting features for larger teams; it's currently lacking.,Negative
+FB-086,App Store Review,2025-01-15,user-209,The mobile web interface is improving! Just wish it was a bit quicker.,Neutral
+FB-087,Survey,2025-05-19,user-722,"I love the new dashboard, but still need better filtering options.",Neutral
+FB-088,Twitter Mention,2024-01-02,user-581,The search feature is finally usable! What a relief!,Positive
+FB-089,Support Ticket,2024-09-23,user-668,Please consider adding auto-backup; it’s a critical feature that’s missing.,Negative
+FB-090,App Store Review,2024-07-23,user-531,I think the improved search makes a big difference! Well done.,Positive
+FB-091,Survey,2025-07-21,user-352,"The app has potential, but advanced reporting tools are necessary.",Neutral
+FB-092,Twitter Mention,2024-09-06,user-906,I’d love to see a dark mode option; it would really help in low-light environments.,Neutral
+FB-093,Support Ticket,2025-02-06,user-878,The lack of mobile features is frustrating; I need everything in one place.,Negative
+FB-094,App Store Review,2025-01-20,user-844,The reporting templates are very basic. More advanced options would be appreciated.,Neutral
+FB-095,Survey,2025-02-15,user-491,"I’m glad to see improvements, but I still have concerns about mobile usability.",Neutral
+FB-096,Twitter Mention,2025-06-22,user-703,Thanks for the new search feature! It’s been a huge time saver for me.,Positive
+FB-097,Support Ticket,2025-07-08,user-617,The app is missing essential filtering options that would greatly improve functionality.,Negative
+FB-098,App Store Review,2025-02-15,user-111,Love the updates! Just need better automated backup options to keep my data safe.,Positive
+FB-099,Survey,2024-03-20,user-955,The mobile interface is functional but could use a more modern design.,Neutral
+FB-100,Twitter Mention,2024-05-31,user-950,Can we please get advanced reporting templates? They would be super helpful!,Neutral
+FB-101,Support Ticket,2024-05-12,user-650,Very happy with the new reporting features! They help track everything effectively.,Positive
+FB-102,App Store Review,2024-10-04,user-457,"The app is solid, but I am still disappointed by the lack of a backup feature.",Negative
+FB-103,Survey,2025-06-22,user-966,"The updates have been great, but please work on the mobile interface further.",Neutral
+FB-104,Twitter Mention,2025-02-16,user-665,Amazing improvements on the search feature! What a time-saver!,Positive
+FB-105,Support Ticket,2025-01-06,user-261,The app really needs automated backups for security purposes.,Negative
+FB-106,App Store Review,2025-06-02,user-168,Great app! Just need those advanced reporting templates to really shine.,Neutral
+FB-107,Survey,2024-01-19,user-617,"The new search functionality is fantastic, but more filtering options would help.",Neutral
+FB-108,Twitter Mention,2024-09-22,user-266,"The mobile experience is getting better, but still needs improvements.",Neutral
+FB-109,Support Ticket,2025-04-27,user-266,"I find the app useful, but the lack of advanced filtering is a drawback.",Negative
+FB-110,App Store Review,2025-07-09,user-288,"The updates are nice, but I wish there were more options for automated backups.",Neutral
+FB-111,Survey,2025-03-03,user-331,"Happy with the improvements, particularly the search feature!",Positive
+FB-112,Twitter Mention,2024-05-09,user-839,Just a suggestion: add advanced filtering! It would really enhance productivity.,Neutral
+FB-113,Support Ticket,2025-06-24,user-913,"I’m loving the new interface, but the reporting tools are still quite basic.",Neutral
+FB-114,App Store Review,2025-02-28,user-286,The search feature is vastly improved! I can find everything I need.,Positive
+FB-115,Survey,2024-03-16,user-287,Automated backup options would definitely make me feel more secure using this app.,Positive
+FB-116,Twitter Mention,2024-05-23,user-498,"The mobile web interface is decent, but could still be more user-friendly.",Neutral
+FB-117,Support Ticket,2025-04-04,user-350,"The improved search speed is fantastic, but we still need better reporting options.",Neutral
+FB-118,App Store Review,2025-05-27,user-806,"I really like the app, but the lack of advanced filtering is frustrating.",Negative
+FB-119,Survey,2024-09-25,user-842,"The app is nice overall, but I think advanced reporting is essential for my work.",Neutral
+FB-120,Twitter Mention,2024-08-22,user-243,Loving the new search feature! It’s made finding projects a breeze.,Positive
+FB-121,Support Ticket,2025-04-02,user-677,Please prioritize the addition of automated backups; they are crucial for my workflow.,Negative
+FB-122,App Store Review,2024-07-03,user-482,Good progress on the mobile interface! Just wish reporting features were better.,Neutral
+FB-123,Survey,2025-01-17,user-767,"I think the app is on the right track, but it could use more advanced tools.",Neutral
+FB-124,Twitter Mention,2025-01-28,user-261,The reporting templates are quite generic. Advanced options would be appreciated!,Negative
+FB-125,Support Ticket,2024-03-16,user-481,"The updated search is a great improvement, but still needs work on reports.",Neutral
+FB-126,App Store Review,2024-12-02,user-773,Fantastic updates! Just need more advanced options for reporting templates.,Neutral
+FB-127,Survey,2024-08-07,user-677,"The new mobile interface is much better, but it's still missing some features.",Neutral
+FB-128,Twitter Mention,2024-07-21,user-118,Just had a great experience with the new search feature! Very user-friendly!,Positive
+FB-129,Support Ticket,2025-06-04,user-965,I hope the next update includes advanced filtering options; they are much needed.,Neutral
+FB-130,App Store Review,2024-01-12,user-100,"The app has improved significantly, but I still crave better automated backup solutions.",Negative
+FB-131,Survey,2024-10-01,user-598,The updated search functionality makes a huge difference; love it!,Positive
+FB-132,Twitter Mention,2024-08-19,user-738,Can we have an option for advanced reporting templates soon? It would help a lot!,Neutral
+FB-133,Support Ticket,2025-07-14,user-711,"Overall, I’m happy with the app, but the lack of advanced reporting is a setback.",Neutral
+FB-134,App Store Review,2024-07-24,user-406,The mobile web interface is decent; just need faster performance.,Neutral
+FB-135,Survey,2025-04-07,user-587,The search feature has improved a lot! I'm really happy with the progress.,Positive
+FB-136,Twitter Mention,2024-10-24,user-211,I need more advanced reporting templates to properly track my projects.,Negative
+FB-137,Support Ticket,2025-01-29,user-247,"The app is solid, but I still find the mobile web interface lacking.",Negative
+FB-138,App Store Review,2025-07-02,user-752,"I appreciate the updates, but I wish there were more advanced filtering options.",Neutral
+FB-139,Survey,2024-08-09,user-880,"The mobile version is better, but I still have some issues with its functionality.",Neutral
+FB-140,Twitter Mention,2025-06-26,user-314,Great work on the improved search! Makes everything quicker.,Positive
+FB-141,Support Ticket,2024-04-05,user-449,"The app is good, but automated backups should be a priority.",Negative
+FB-142,App Store Review,2024-04-27,user-283,"I like the new dashboard features, but reporting templates could use enhancement.",Neutral
+FB-143,Survey,2024-07-27,user-903,"The mobile interface is getting better, but still needs user improvements.",Neutral
+FB-144,Twitter Mention,2024-02-27,user-161,The new search feature is awesome! Thank you for the update!,Positive
+FB-145,Support Ticket,2025-02-18,user-242,"I find the app pretty useful, but I'm frustrated by the lack of advanced filtering options.",Negative
+FB-146,App Store Review,2024-07-02,user-411,The reporting options are very limited. I hope to see improvements soon.,Neutral
+FB-147,Survey,2024-05-09,user-797,I think the automated backup feature would be a great security measure for users.,Positive
+FB-148,Twitter Mention,2024-04-12,user-439,Very happy with the updated search functionality! Makes project management easier.,Positive
+FB-149,Support Ticket,2024-12-18,user-159,Can we please consider adding advanced filtering options? It would be extremely helpful.,Neutral
+FB-001,Support Ticket,2024-12-22,user-654,I am having a hard time uploading larger files; it keeps failing due to size limits.,Negative
+FB-002,App Store Review,2025-03-08,user-402,"Great app overall, but the new dashboard is quite confusing compared to the old one.",Negative
+FB-003,Survey,2024-07-25,user-271,"I appreciate the task management features, but I really need advanced filtering options.",Neutral
+FB-004,Twitter Mention,2024-09-15,user-381,The file upload size limit is really frustrating. Can this be increased?,Negative
+FB-005,Support Ticket,2024-06-01,user-588,Browser compatibility issues with Safari are making it difficult to use the app.,Negative
+FB-006,App Store Review,2025-03-02,user-655,"Really love how intuitive the interface is, just wish the permissions settings were clearer.",Positive
+FB-007,Survey,2025-05-17,user-954,"The new dashboard layout could use some improvement, it's not user-friendly.",Negative
+FB-008,Twitter Mention,2025-02-28,user-426,I’d like to see advanced filtering options added to the project views.,Neutral
+FB-009,Support Ticket,2024-05-13,user-996,I can't upload my presentation files because they exceed the file size limit.,Negative
+FB-010,App Store Review,2025-02-23,user-620,Awesome tool! Just encountered a glitch while accessing it on Firefox.,Positive
+FB-011,Survey,2024-12-30,user-604,Can you please clarify how user permissions work? I'm confused about the settings.,Neutral
+FB-012,Twitter Mention,2024-06-18,user-320,The new dashboard is messy; I preferred the previous layout much more.,Negative
+FB-013,Support Ticket,2024-10-22,user-589,"I have issues with the app on Safari, it crashes frequently.",Negative
+FB-014,App Store Review,2024-12-21,user-960,"I love the ease of use! However, the file upload limit is a bit too low for my needs.",Positive
+FB-015,Survey,2024-12-05,user-423,The project management features are good but could benefit from more filtering options.,Neutral
+FB-016,Twitter Mention,2024-09-10,user-425,Is anyone else having trouble with uploading files? The limit is too restrictive.,Negative
+FB-017,Support Ticket,2024-06-07,user-402,I really dislike the new dashboard; it feels cluttered and hard to navigate.,Negative
+FB-018,App Store Review,2024-07-04,user-136,Fantastic app! Just a bit confused about the user permissions settings.,Positive
+FB-019,Survey,2025-03-29,user-775,The filters in the task view are basic. I need more advanced options.,Neutral
+FB-020,Twitter Mention,2024-08-19,user-889,I can't believe the file upload limit is still an issue! It needs to be higher.,Negative
+FB-021,Support Ticket,2024-08-17,user-682,The app doesn’t work properly in Firefox. Please fix this issue.,Negative
+FB-022,App Store Review,2024-10-29,user-366,"I appreciate the updates, but the new dashboard is confusing.",Negative
+FB-023,Survey,2025-07-19,user-564,User permissions are not intuitive at all. Please simplify this feature.,Neutral
+FB-024,Twitter Mention,2025-07-22,user-193,I wish there were more options for filtering tasks. It would be a game changer!,Neutral
+FB-025,Support Ticket,2025-01-12,user-946,It's so frustrating trying to upload larger files; the limit is too low.,Negative
+FB-026,App Store Review,2025-03-09,user-142,I really enjoy using this app! Just wish the browser issues were resolved.,Positive
+FB-027,Survey,2024-08-26,user-857,"The interface is much better now, but the new dashboard could use a tutorial.",Neutral
+FB-028,Twitter Mention,2024-04-23,user-658,Does anyone else find the new dashboard confusing? I miss the old layout.,Negative
+FB-029,Support Ticket,2024-03-29,user-377,Uploading files is a nightmare. The size limit is too restrictive for my work.,Negative
+FB-030,App Store Review,2024-02-20,user-290,"Everything works well, but the user permissions are confusing.",Positive
+FB-031,Survey,2025-03-15,user-825,Advanced filtering options would definitely enhance my experience with this app.,Neutral
+FB-032,Twitter Mention,2024-12-27,user-996,Why am I having issues with the app on Safari? It keeps crashing!,Negative
+FB-033,Support Ticket,2025-03-03,user-601,I'm struggling with the new dashboard layout. It’s not very intuitive.,Negative
+FB-034,App Store Review,2024-12-26,user-350,This is an excellent tool for project management! But it needs better file upload support.,Positive
+FB-035,Survey,2025-01-09,user-478,User permissions settings are hard to understand. Please provide better guidance.,Neutral
+FB-036,Twitter Mention,2024-05-08,user-899,I really need the file upload limits increased for larger projects!,Negative
+FB-037,Support Ticket,2025-06-21,user-462,"The new dashboard may look good, but it's very confusing to navigate.",Negative
+FB-038,App Store Review,2025-06-27,user-240,Great features overall! I just wish it worked better on Firefox.,Positive
+FB-039,Survey,2025-03-29,user-323,More advanced filtering options would help tailor it to my needs.,Neutral
+FB-040,Twitter Mention,2024-10-03,user-782,The confusion with user permissions is frustrating... How does it even work?,Negative
+FB-041,Support Ticket,2024-06-19,user-659,"The app crashes on Safari, which makes it hard to use effectively.",Negative
+FB-042,App Store Review,2024-02-13,user-474,"Love the new updates, but wish the file uploads could handle larger sizes.",Positive
+FB-043,Survey,2024-02-02,user-231,User permissions need a complete overhaul; I can't figure out how to adjust them.,Neutral
+FB-044,Twitter Mention,2025-04-01,user-641,I feel lost on the new dashboard. Can someone help me navigate it?,Negative
+FB-045,Support Ticket,2025-04-03,user-943,The file upload process needs to be more accommodating for large files.,Negative
+FB-046,App Store Review,2024-06-01,user-850,Fantastic app but really needs better browser compatibility.,Positive
+FB-047,Survey,2024-07-11,user-417,Would appreciate a clearer explanation of user permissions settings.,Neutral
+FB-048,Twitter Mention,2024-12-23,user-323,I'm really struggling with the new dashboard layout. It’s not user-friendly.,Negative
+FB-049,Support Ticket,2024-01-06,user-263,The upload size limit is making it hard to share my work with the team.,Negative
+FB-050,App Store Review,2024-07-12,user-280,I really enjoy using this app! Just wish the file upload limit was higher.,Positive
+FB-051,Survey,2024-05-15,user-467,Advanced filtering options would enhance the overall functionality.,Neutral
+FB-052,Twitter Mention,2025-07-25,user-108,Is anyone else experiencing issues with the file upload size? I can't upload my documents!,Negative
+FB-053,Support Ticket,2024-10-29,user-922,The dashboard is overwhelming and not easy to use; I miss the old design.,Negative
+FB-054,App Store Review,2024-05-22,user-277,"Great features, but the browser compatibility issues need to be fixed.",Positive
+FB-055,Survey,2024-11-16,user-118,The lack of advanced filtering makes it difficult to manage tasks efficiently.,Neutral
+FB-056,Twitter Mention,2025-05-20,user-516,Can someone explain how the user permissions work? I'm so confused.,Negative
+FB-057,Support Ticket,2024-01-01,user-419,I'm really struggling with the file upload limits during my projects.,Negative
+FB-058,App Store Review,2025-01-26,user-707,The app is fantastic! Just encountered issues with Firefox compatibility.,Positive
+FB-059,Survey,2025-07-01,user-306,User permissions are unclear; I would appreciate detailed instructions.,Neutral
+FB-060,Twitter Mention,2024-08-21,user-916,Why can’t I upload larger files? This is really frustrating!,Negative
+FB-061,Support Ticket,2025-07-05,user-703,The new dashboard design is not working for me; it’s too cluttered.,Negative
+FB-062,App Store Review,2024-10-04,user-943,"I love the new features! However, the file upload size limit is problematic.",Positive
+FB-063,Survey,2024-12-18,user-368,Would love to see advanced filtering options added in the future.,Neutral
+FB-064,Twitter Mention,2025-01-02,user-872,The app crashes on Safari! What's going on?,Negative
+FB-065,Support Ticket,2024-01-15,user-506,I find the new dashboard layout confusing and hard to navigate.,Negative
+FB-066,App Store Review,2024-05-27,user-494,Great tool for team collaboration! Just wish it was more compatible with Safari.,Positive
+FB-067,Survey,2024-03-16,user-138,More advanced filtering options would be greatly appreciated.,Neutral
+FB-068,Twitter Mention,2024-02-28,user-652,Can someone help me understand user permissions? It’s really complicated!,Negative
+FB-069,Support Ticket,2024-07-22,user-258,The file upload size is way too small for my projects.,Negative
+FB-070,App Store Review,2024-11-16,user-365,I really enjoy this app! Just wish it would work better on Firefox.,Positive
+FB-071,Survey,2025-04-28,user-807,"The new dashboard is nice, but a bit overwhelming at first.",Neutral
+FB-072,Twitter Mention,2024-12-11,user-815,I can't believe I can’t upload my files! The limit is too low!,Negative
+FB-073,Support Ticket,2024-10-12,user-285,Having issues with user permissions. It’s not intuitive.,Negative
+FB-074,App Store Review,2024-01-01,user-286,"Overall a great experience, but the new dashboard is confusing.",Positive
+FB-075,Survey,2025-05-16,user-761,Would love to see advanced filtering options in task management.,Neutral
+FB-076,Twitter Mention,2024-12-04,user-883,Why is there a limit on file uploads? It should be higher for professionals.,Negative
+FB-077,Support Ticket,2024-06-11,user-741,The app doesn’t function well in Safari. It keeps crashing on me.,Negative
+FB-078,App Store Review,2024-03-28,user-863,Love the design! The file upload limit could use an upgrade though.,Positive
+FB-079,Survey,2024-03-21,user-596,User permissions settings are not user-friendly. Please fix this.,Neutral
+FB-080,Twitter Mention,2024-12-11,user-646,Struggling to find my way around the new dashboard. It's really confusing.,Negative
+FB-081,Support Ticket,2025-06-12,user-306,The upload limit is a major roadblock for my project submissions.,Negative
+FB-082,App Store Review,2024-12-17,user-882,Fantastic app! But it needs to address browser compatibility issues.,Positive
+FB-083,Survey,2024-01-27,user-752,I need more advanced filtering options to manage my tasks effectively.,Neutral
+FB-084,Twitter Mention,2024-04-02,user-278,How come I can’t upload larger files? This is so annoying!,Negative
+FB-085,Support Ticket,2024-02-19,user-769,The new dashboard is cluttered; I miss the simplicity of the old one.,Negative
+FB-086,App Store Review,2025-05-02,user-939,"Great features overall, just needs better user permissions clarity.",Positive
+FB-087,Survey,2024-05-11,user-517,The advanced filtering options are a must-have for better organization.,Neutral
+FB-088,Twitter Mention,2025-02-17,user-700,User permissions are so confusing! Can someone help me with that?,Negative
+FB-089,Support Ticket,2024-12-27,user-988,The file upload limit is not sufficient for my team's needs.,Negative
+FB-090,App Store Review,2024-04-03,user-388,Amazing app! But it would be great if it worked better on Firefox.,Positive
+FB-091,Survey,2024-09-09,user-714,User permissions are not clear. More guidance would help.,Neutral
+FB-092,Twitter Mention,2024-11-03,user-718,"I wish the file upload limit was higher, it’s quite restrictive.",Negative
+FB-093,Support Ticket,2025-06-06,user-168,I find the new dashboard layout quite challenging to use.,Negative
+FB-094,App Store Review,2024-08-19,user-439,The app is very helpful! Just facing issues with the file upload size.,Positive
+FB-095,Survey,2025-01-28,user-374,It would be great if advanced filtering options were implemented soon.,Neutral
+FB-096,Twitter Mention,2025-01-24,user-393,Why can’t I upload my files? The limit is ridiculous!,Negative
+FB-097,Support Ticket,2025-02-09,user-603,The app keeps crashing on Safari. This needs to be fixed.,Negative
+FB-098,App Store Review,2025-02-17,user-140,I like the app! But the new dashboard is too complicated for me.,Positive
+FB-099,Survey,2024-06-16,user-941,The user permissions settings need to be simplified for better understanding.,Neutral
+FB-100,Twitter Mention,2024-01-29,user-563,I really need to upload larger files! The current limit is too low.,Negative
+FB-101,Support Ticket,2024-03-04,user-792,The new dashboard is confusing; I can’t find what I need.,Negative
+FB-102,App Store Review,2024-04-24,user-956,"Great application! Though, it should allow for larger file uploads.",Positive
+FB-103,Survey,2025-02-15,user-619,Advanced filtering options would definitely improve my experience.,Neutral
+FB-104,Twitter Mention,2024-11-21,user-266,Can anyone explain the user permissions? I’m lost.,Negative
+FB-105,Support Ticket,2025-05-29,user-889,I’m encountering problems with file uploads; the limit is frustrating.,Negative
+FB-106,App Store Review,2025-05-06,user-332,"Amazing features, but it has browser compatibility issues.",Positive
+FB-107,Survey,2024-05-29,user-446,User permissions are unclear. More tutorials would help.,Neutral
+FB-108,Twitter Mention,2024-10-11,user-110,Is anyone else having trouble with the file size limit? It’s driving me crazy!,Negative
+FB-109,Support Ticket,2024-08-06,user-400,The confusion with the new dashboard layout is overwhelming.,Negative
+FB-110,App Store Review,2024-06-05,user-562,Really enjoy using the app! Just wish the file upload limits were increased.,Positive
+FB-111,Survey,2024-10-15,user-856,I would really appreciate more advanced filtering options for my projects.,Neutral
+FB-112,Twitter Mention,2025-06-18,user-838,I can't believe the app won’t allow larger file uploads!,Negative
+FB-113,Support Ticket,2024-02-14,user-600,The user permissions are hard to navigate; I’m confused.,Negative
+FB-114,App Store Review,2024-04-13,user-516,Fantastic UI! Just facing issues with Firefox compatibility.,Positive
+FB-115,Survey,2024-04-11,user-801,The new dashboard is cluttered; it should be more streamlined.,Neutral
+FB-116,Twitter Mention,2025-03-17,user-500,I really need the ability to upload larger files! This is a limitation.,Negative
+FB-117,Support Ticket,2025-05-21,user-889,There’s too much confusion over the user permissions settings.,Negative
+FB-118,App Store Review,2024-08-25,user-160,I love this application! Please work on fixing the browser issues.,Positive
+FB-119,Survey,2025-06-29,user-675,It would be helpful to add advanced filtering options soon.,Neutral
+FB-120,Twitter Mention,2024-04-04,user-183,Why can't I upload my files? The size restriction is so annoying!,Negative
+FB-121,Support Ticket,2024-07-29,user-863,The app is crashing on Safari often; please address this.,Negative
+FB-122,App Store Review,2025-04-15,user-914,Great app! But I find the new dashboard layout confusing.,Positive
+FB-123,Survey,2024-05-10,user-555,User permissions need to be clearer; they’re too complicated.,Neutral
+FB-124,Twitter Mention,2024-08-25,user-627,I wish the file upload limit was higher for larger projects.,Negative
+FB-125,Support Ticket,2024-09-20,user-457,The new dashboard is frustrating to navigate.,Negative
+FB-126,App Store Review,2024-10-20,user-216,Love the app! Just wish it was more compatible with Firefox.,Positive
+FB-127,Survey,2025-02-26,user-625,Advanced filtering options would really help in managing tasks.,Neutral
+FB-128,Twitter Mention,2024-04-21,user-191,Can someone help me with the user permissions? It’s quite confusing!,Negative
+FB-129,Support Ticket,2024-06-24,user-544,The file upload limit is making it very difficult to share resources.,Negative
+FB-130,App Store Review,2025-02-08,user-472,The app is amazing! Just need better guidance on user permissions.,Positive
+FB-131,Survey,2024-01-18,user-502,I need more advanced filtering options to improve workflow.,Neutral
+FB-132,Twitter Mention,2024-08-20,user-790,"Is it just me, or is the file upload limit really low?",Negative
+FB-133,Support Ticket,2024-02-03,user-649,The dashboard is too cluttered and hard to navigate.,Negative
+FB-134,App Store Review,2025-07-04,user-955,Great features! Just wish the upload size was larger.,Positive
+FB-135,Survey,2024-03-01,user-676,User permissions are really complicated. More help would be appreciated.,Neutral
+FB-136,Twitter Mention,2025-01-25,user-247,I’m struggling with the new dashboard layout; it’s confusing.,Negative
+FB-137,Support Ticket,2025-01-30,user-411,"I can’t upload larger files, which is very frustrating.",Negative
+FB-138,App Store Review,2024-04-26,user-592,Overall great tool! Just facing some browser compatibility issues.,Positive
+FB-139,Survey,2024-08-15,user-319,More advanced filtering options would really enhance my experience.,Neutral
+FB-140,Twitter Mention,2024-03-03,user-272,Why can’t I upload my files? The limit is not sufficient!,Negative
+FB-141,Support Ticket,2024-02-18,user-445,The user permissions settings need to be more intuitive.,Negative
+FB-142,App Store Review,2024-11-26,user-385,I enjoy using this app! Just wish the file upload limit was raised.,Positive
+FB-143,Survey,2024-03-27,user-288,The new dashboard is not user-friendly; it needs improvement.,Neutral
+FB-144,Twitter Mention,2024-11-14,user-212,I really need the ability to upload larger files. This is limiting!,Negative
+FB-145,Support Ticket,2024-08-16,user-264,There’s too much confusion with user permissions; it should be simplified.,Negative
+FB-146,App Store Review,2025-04-27,user-202,Fantastic app! Just experiencing issues with uploading larger files.,Positive
+FB-147,Survey,2024-09-17,user-407,More advanced filtering options would be greatly beneficial.,Neutral
+FB-148,Twitter Mention,2024-02-28,user-332,I can’t upload my documents because of the size limit!,Negative
+FB-149,Support Ticket,2024-04-23,user-587,The app keeps crashing on Safari. It’s quite frustrating.,Negative
+FB-150,App Store Review,2024-11-19,user-887,Love the new features! Just wish the user permissions were clearer.,Positive
+FB-151,Survey,2024-03-02,user-506,Could really use more guidance on user permissions settings.,Neutral
+FB-152,Twitter Mention,2024-09-25,user-870,Is anyone else having trouble with the file upload limit?,Negative
+FB-153,Support Ticket,2024-09-28,user-817,The dashboard is overwhelming; I don’t know where to go.,Negative
+FB-154,App Store Review,2024-05-24,user-738,Great application! But it could use better file upload support.,Positive
+FB-155,Survey,2025-05-01,user-387,The advanced filtering options would be a great addition.,Neutral
+FB-156,Twitter Mention,2024-08-17,user-267,Why can’t I upload larger files? This limit is too much!,Negative
+FB-157,Support Ticket,2024-05-03,user-559,The user permissions are hard to work with; I need help.,Negative
+FB-158,App Store Review,2024-07-21,user-412,Amazing tool for team collaboration! Just needs to fix browser issues.,Positive
+FB-159,Survey,2025-06-01,user-560,User permissions are confusing; I’d appreciate a detailed guide.,Neutral
+FB-160,Twitter Mention,2024-01-12,user-894,I wish the file upload limit was higher for more comprehensive projects.,Negative
+FB-161,Support Ticket,2024-12-03,user-686,The new dashboard is confusing and needs to be simplified.,Negative
+FB-162,App Store Review,2025-02-03,user-867,Very user-friendly! Just need larger file upload capabilities.,Positive
+FB-163,Survey,2024-01-15,user-322,Would appreciate advanced filtering options for better task management.,Neutral
+FB-164,Twitter Mention,2024-05-29,user-834,Can someone help explain the user permissions? I'm lost.,Negative
+FB-165,Support Ticket,2024-02-28,user-939,The file upload limit is a hassle for my team’s workflow.,Negative
+FB-001,Support Ticket,2024-10-26,user-368,I really appreciate the performance improvements! Everything loads much faster now.,Positive
+FB-002,App Store Review,2025-04-13,user-632,"The file upload size limit is frustrating, especially when trying to upload large documents.",Negative
+FB-003,Survey,2024-10-31,user-693,It would be great if you could add a dark mode option for late-night work sessions.,Neutral
+FB-004,Twitter Mention,2025-05-31,user-874,"Loving the quick add task feature, but please consider adding a dark mode!",Positive
+FB-005,Support Ticket,2025-01-09,user-140,"I keep hitting the file upload limit, which disrupts my workflow. Please increase the limit.",Negative
+FB-006,App Store Review,2024-10-10,user-816,"The performance enhancements are noticeable, but I still wish for an automated backup feature.",Neutral
+FB-007,Survey,2024-03-26,user-463,A dark mode would make a huge difference in reducing eye strain!,Positive
+FB-008,Twitter Mention,2024-10-04,user-995,Just upgraded my plan! The quick add functionality is a game changer. Thanks!,Positive
+FB-009,Support Ticket,2024-03-15,user-191,Why is there a limit on file uploads? This is really holding me back.,Negative
+FB-010,App Store Review,2024-05-03,user-979,"Fantastic performance improvements, but where's dark mode? All apps should have this!",Neutral
+FB-011,Survey,2024-12-17,user-806,Quick add is super handy! Could use some more customization options though.,Positive
+FB-012,Twitter Mention,2024-09-17,user-936,File upload limits are a pain. Hoping for an update soon.,Negative
+FB-013,Support Ticket,2024-07-07,user-838,"I think the current version is running smoother, but dark mode is still missing!",Neutral
+FB-014,App Store Review,2024-10-26,user-870,Quick add feature is brilliant! Makes task management so much easier.,Positive
+FB-015,Survey,2024-04-25,user-277,"The app feels faster now, but please consider allowing larger file uploads.",Neutral
+FB-016,Twitter Mention,2025-02-08,user-425,Really enjoying the quick add task feature! Saves me tons of time.,Positive
+FB-017,Support Ticket,2024-08-09,user-868,I need a way to back up my projects automatically. This would be very helpful!,Neutral
+FB-018,App Store Review,2024-01-25,user-278,Love the performance updates! Just wish I could use dark mode.,Positive
+FB-019,Survey,2024-12-01,user-575,The file upload size is quite limiting. It's affecting my ability to share files.,Negative
+FB-020,Twitter Mention,2024-04-21,user-856,Fantastic enhancements! Just missing a dark mode for better usability.,Positive
+FB-021,Support Ticket,2024-04-17,user-613,"The quick add feature is nice, but I still can't upload larger files.",Neutral
+FB-022,App Store Review,2024-03-01,user-813,"Great app! However, the lack of dark mode makes it hard to use at night.",Negative
+FB-023,Survey,2025-02-26,user-748,"I appreciate the performance improvements, but automated backups would be a great addition.",Neutral
+FB-024,Twitter Mention,2025-06-02,user-292,Dark mode please! It would make working on this app so much easier.,Positive
+FB-025,Support Ticket,2024-08-16,user-730,Can you please fix the upload size limit? It's really frustrating!,Negative
+FB-026,App Store Review,2024-05-11,user-899,The quick add task feature is fantastic! It makes my life so much easier.,Positive
+FB-027,Survey,2024-11-03,user-153,"Performance improvements are great, but I'd love to see a dark mode option.",Neutral
+FB-028,Twitter Mention,2025-02-12,user-333,The ability to quickly add tasks is a lifesaver! Thank you!,Positive
+FB-029,Support Ticket,2024-08-12,user-113,Automatic backups would alleviate so much stress. Please consider implementing this.,Neutral
+FB-030,App Store Review,2024-02-28,user-610,"The recent updates have improved performance, but I still need dark mode.",Neutral
+FB-031,Survey,2025-02-20,user-199,The file upload limit is a huge drawback. I hope this will be addressed.,Negative
+FB-032,Twitter Mention,2024-11-12,user-792,Loving the new update! Quick add tasks are amazing! Just waiting for dark mode now.,Positive
+FB-033,Support Ticket,2024-05-24,user-600,It would be great if we could have larger file upload limits.,Negative
+FB-034,App Store Review,2024-02-22,user-815,The app's performance has really improved! Can't wait for dark mode!,Positive
+FB-035,Survey,2025-05-14,user-427,Quick add feature is awesome! Wish I could customize it more.,Neutral
+FB-036,Twitter Mention,2025-06-13,user-819,Please increase the file upload limits. This is very limiting for my projects.,Negative
+FB-037,Support Ticket,2024-12-17,user-785,Dark mode is a must-have for me at night. Please consider adding it soon.,Positive
+FB-038,App Store Review,2025-01-09,user-168,The recent performance updates have been impressive! Keep up the good work.,Positive
+FB-039,Survey,2025-04-15,user-104,I think automated backups would be a great feature to add!,Neutral
+FB-040,Twitter Mention,2024-12-10,user-168,The quick add functionality is perfect for my needs. Thank you!,Positive
+FB-041,Support Ticket,2025-04-19,user-564,Can you please fix the file upload size? It's causing a lot of issues for me.,Negative
+FB-042,App Store Review,2025-03-09,user-601,"The performance improvements are great, but I really miss dark mode.",Neutral
+FB-043,Survey,2024-06-23,user-951,I love the quick add feature! It saves me a lot of time in my daily tasks.,Positive
+FB-044,Twitter Mention,2025-03-07,user-193,I've hit the file upload limit too many times. Need a fix for this.,Negative
+FB-045,Support Ticket,2024-11-27,user-927,The app runs much faster now! Just wishing for a dark mode.,Positive
+FB-046,App Store Review,2024-10-29,user-636,"Quick add is a great feature, but I often struggle with file size limits.",Neutral
+FB-047,Survey,2025-06-21,user-632,"The performance has gotten a lot better, but please add automated backups!",Neutral
+FB-048,Twitter Mention,2024-09-23,user-310,Dark mode is definitely needed! It would improve my experience so much.,Positive
+FB-049,Support Ticket,2024-09-27,user-936,"I'm glad about the performance improvements, but the upload limit is frustrating.",Negative
+FB-050,App Store Review,2025-07-03,user-373,The new quick add feature is amazing! It’s a total time saver!,Positive
+FB-051,Survey,2024-04-13,user-236,I would like larger upload limits for my files. It’s really a hassle.,Negative
+FB-052,Twitter Mention,2024-02-09,user-621,Really enjoying the app! Just wish there was dark mode for late nights.,Positive
+FB-053,Support Ticket,2024-11-17,user-485,I really need the option for automated backups. It’s crucial for my work.,Neutral
+FB-054,App Store Review,2024-01-23,user-966,"Performance is better, but please prioritize dark mode!",Neutral
+FB-055,Survey,2024-03-21,user-489,Quick add functionality rocks! Just needs a little more polish.,Neutral
+FB-056,Twitter Mention,2024-02-16,user-491,Loving the new performance updates! Keep them coming!,Positive
+FB-057,Support Ticket,2024-03-03,user-371,Can we please have a dark mode option? It would help during long hours.,Positive
+FB-058,App Store Review,2024-09-08,user-791,Great updates! Just need larger file uploads and dark mode!,Neutral
+FB-059,Survey,2025-05-17,user-966,"The app is performing well now, but I miss having dark mode.",Neutral
+FB-060,Twitter Mention,2025-03-16,user-622,Quick add tasks are a lifesaver! Wish I could upload larger files though.,Positive
+FB-061,Support Ticket,2025-05-18,user-847,Dark mode is a must for me. Hope to see it soon!,Positive
+FB-062,App Store Review,2025-05-11,user-376,The performance updates have made a noticeable difference. Thanks!,Positive
+FB-063,Survey,2025-02-23,user-471,I find the file upload limits quite annoying. Hoping for an upgrade soon.,Negative
+FB-064,Twitter Mention,2024-04-10,user-327,Quick add feature makes task tracking so much easier!,Positive
+FB-065,Support Ticket,2024-11-23,user-806,The app needs an automated backup feature. It would ease my mind.,Neutral
+FB-066,App Store Review,2024-12-11,user-505,Love the improvements! Just need that dark mode option now.,Positive
+FB-067,Survey,2024-12-15,user-404,"Performance is much better, but I still have trouble with upload limits.",Negative
+FB-068,Twitter Mention,2025-02-12,user-729,Dark mode would be a great addition!,Positive
+FB-069,Support Ticket,2024-07-11,user-917,Please consider increasing the file upload size; it’s quite limiting.,Negative
+FB-070,App Store Review,2024-02-08,user-496,The quick add feature has saved me so much time! Thank you!,Positive
+FB-071,Survey,2024-01-19,user-234,The performance improvements are great! Just need dark mode.,Neutral
+FB-072,Twitter Mention,2024-08-06,user-667,I can't wait for the dark mode update!,Positive
+FB-073,Support Ticket,2024-12-13,user-829,The file upload limit is hindering my productivity. Please fix this.,Negative
+FB-074,App Store Review,2025-06-23,user-105,Great performance improvements! Just missing dark mode for a perfect experience.,Neutral
+FB-075,Survey,2025-07-25,user-821,I’d appreciate automated backups to avoid losing work.,Neutral
+FB-076,Twitter Mention,2025-07-06,user-283,The app feels a lot faster! Just need dark mode now.,Positive
+FB-077,Support Ticket,2024-08-29,user-481,Quick add feature is a game changer! Thanks for that!,Positive
+FB-078,App Store Review,2025-02-25,user-916,The performance updates are impressive! Just need dark mode to fully enjoy it.,Neutral
+FB-079,Survey,2025-02-05,user-389,File upload limits are too strict! Please consider increasing them.,Negative
+FB-080,Twitter Mention,2025-02-21,user-506,Quick add functionality is fantastic! Loving the app overall!,Positive
+FB-081,Support Ticket,2025-06-16,user-655,Automated backups would be a great feature. Please consider it!,Neutral
+FB-082,App Store Review,2025-04-12,user-670,The app is fast now! Just wish there was a dark mode option.,Positive
+FB-083,Survey,2025-05-26,user-369,"Performance is much improved, but the upload limits are a pain.",Negative
+FB-084,Twitter Mention,2025-07-10,user-578,I love the quick add task feature! It’s just what I needed!,Positive
+FB-085,Support Ticket,2024-03-14,user-201,Please add dark mode! I work late hours and it would help a lot.,Positive
+FB-086,App Store Review,2024-06-11,user-701,Performance enhancements are great but still need dark mode.,Neutral
+FB-087,Survey,2024-07-31,user-508,I think automated backups would save users a lot of headaches.,Neutral
+FB-088,Twitter Mention,2024-10-05,user-434,"Can we have larger file uploads, please? This limit is tough.",Negative
+FB-089,Support Ticket,2025-06-12,user-183,Dark mode would really enhance my experience at night. Please add it!,Positive
+FB-090,App Store Review,2025-02-03,user-427,Quick add is a lifesaver! Just want dark mode to match my workflow.,Positive
+FB-091,Survey,2024-01-06,user-254,"The app runs much smoother, but the file size limit is frustrating.",Negative
+FB-092,Twitter Mention,2024-01-25,user-229,Loving the updates! Just waiting for dark mode to complete the experience.,Positive
+FB-093,Support Ticket,2024-03-08,user-628,Automated backups are a must-have feature. Really need it!,Neutral
+FB-094,App Store Review,2024-11-24,user-493,Performance improvements are appreciated! Just need dark mode soon.,Neutral
+FB-095,Survey,2025-05-04,user-390,I find the quick add feature very useful. More options would be great!,Positive
+FB-096,Twitter Mention,2024-12-26,user-489,File upload limits need to be increased to improve usability.,Negative
+FB-097,Support Ticket,2024-07-28,user-602,"The app is running better than before, but dark mode is still missed.",Neutral
+FB-098,App Store Review,2024-11-22,user-450,Quick add is wonderful! It has significantly improved my productivity!,Positive
+FB-099,Survey,2025-01-01,user-901,Please consider larger upload limits for files. It's quite limiting.,Negative
+FB-100,Twitter Mention,2024-06-10,user-560,Dark mode would make this app perfect for my needs!,Positive
+FB-101,Support Ticket,2025-07-11,user-964,I hope you can implement automated backups soon. It's crucial for me.,Neutral
+FB-102,App Store Review,2024-07-09,user-171,Performance updates are great! Just need dark mode for better usability.,Neutral
+FB-103,Survey,2025-04-05,user-960,Quick add is a fantastic feature! It speeds up my task management greatly!,Positive
+FB-104,Twitter Mention,2024-01-20,user-680,I think we need to address the upload limits soon. It's a big issue.,Negative
+FB-105,Support Ticket,2024-02-16,user-117,Dark mode is essential for my work! I hope to see it soon!,Positive
+FB-106,App Store Review,2024-03-11,user-555,The app is performing much better! Just missing dark mode now.,Positive
+FB-107,Survey,2024-01-23,user-987,I appreciate the improvements but still need automated backups!,Neutral
+FB-108,Twitter Mention,2025-02-26,user-180,Quick add feature is amazing! Thanks for that update!,Positive
+FB-109,Support Ticket,2024-01-19,user-548,Can we get an update on the file upload limits? They are quite restrictive.,Negative
+FB-110,App Store Review,2024-12-26,user-656,Great performance! Just need a dark mode to help with late-night work.,Neutral
+FB-111,Survey,2025-02-27,user-683,It would be fantastic to have automated backups to secure my projects.,Neutral
+FB-112,Twitter Mention,2024-03-23,user-869,Loving the performance upgrades but waiting for dark mode to be added!,Positive
+FB-113,Support Ticket,2025-05-02,user-890,I have hit the file size limit too often. Please consider increasing it.,Negative
+FB-114,App Store Review,2025-02-26,user-707,The quick add task feature is a lifesaver! Thank you for that!,Positive
+FB-115,Survey,2025-01-20,user-802,"Performance is better, but uploading larger files would greatly help.",Neutral
+FB-116,Twitter Mention,2025-07-28,user-542,"Dark mode is needed for better usability, especially at night.",Positive
+FB-117,Support Ticket,2024-07-02,user-516,Automated backups would make life so much easier! Please implement this.,Neutral
+FB-118,App Store Review,2025-06-10,user-649,"The updates have improved performance, but dark mode is still missing.",Neutral
+FB-119,Survey,2024-12-12,user-172,Quick add is fantastic! It saves so much time when creating tasks!,Positive
+FB-120,Twitter Mention,2024-03-08,user-350,Please increase the file upload size. It's been a consistent issue for me.,Negative
+FB-121,Support Ticket,2024-10-02,user-821,A dark mode feature would really help me work better at night.,Positive
+FB-122,App Store Review,2025-02-16,user-846,Loving the new performance improvements! Just waiting for dark mode now.,Positive
+FB-123,Survey,2024-05-06,user-231,Automated backups would really ease my mind about losing work.,Neutral
+FB-124,Twitter Mention,2024-01-03,user-580,Quick add task feature is so useful! Keep up the great work!,Positive
+FB-125,Support Ticket,2024-04-16,user-786,"I continue to hit the upload limit, which is quite frustrating.",Negative
+FB-126,App Store Review,2025-01-22,user-419,A dark mode option would make this app perfect for late-night users!,Positive
+FB-127,Survey,2024-08-06,user-198,"Performance is getting better, but larger file uploads are still needed.",Neutral
+FB-128,Twitter Mention,2025-03-31,user-193,The app feels much faster now! Just missing dark mode for full satisfaction.,Positive
+FB-129,Support Ticket,2024-06-04,user-366,I think we need an option for automated backups. It would help a lot!,Neutral
+FB-130,App Store Review,2024-11-07,user-879,Quick add is a great feature! I can't imagine working without it now!,Positive
+FB-131,Survey,2025-02-12,user-775,I appreciate the performance improvements but need larger file uploads.,Negative
+FB-132,Twitter Mention,2024-09-08,user-121,Dark mode feature would enhance my experience greatly at night.,Positive
+FB-133,Support Ticket,2024-11-24,user-753,I hope to see an increase in the file size limit soon. It's a major issue.,Negative
+FB-134,App Store Review,2024-07-24,user-397,The quick add task feature is brilliant! Thank you for that improvement!,Positive
+FB-135,Survey,2024-10-29,user-102,"Overall performance is good, but I still want automatic backups.",Neutral
+FB-136,Twitter Mention,2024-09-27,user-603,Can we get a dark mode feature? It would be so helpful at night!,Positive
+FB-137,Support Ticket,2024-04-25,user-206,File upload restrictions are really problematic for my work. Please fix it!,Negative
+FB-138,App Store Review,2025-07-17,user-367,The performance updates are much appreciated! Just need dark mode soon!,Neutral
+FB-139,Survey,2024-03-20,user-953,I would love to see larger upload limits implemented!,Neutral
+FB-140,Twitter Mention,2024-08-05,user-939,Loving the new quick add feature! It's changed my workflow for the better!,Positive
+FB-141,Support Ticket,2024-03-16,user-269,I think automated backups would be a fantastic feature to have!,Neutral
+FB-142,App Store Review,2024-05-25,user-611,Great performance improvements! Just need dark mode for easier use at night.,Neutral
+FB-143,Survey,2024-02-25,user-997,Quick add functionality is fantastic! It saves me a lot of time!,Positive
+FB-144,Twitter Mention,2024-02-07,user-215,Please consider increasing the file upload limit! It's quite limiting.,Negative
+FB-145,Support Ticket,2024-11-17,user-263,A dark mode feature would be so beneficial for my late-night work sessions.,Positive
+FB-146,App Store Review,2024-10-09,user-175,The performance improvements are noticeable! Just missing dark mode.,Neutral
+FB-147,Survey,2024-04-01,user-910,Automated backups would save us a lot of stress! Please add this feature.,Neutral
+FB-148,Twitter Mention,2024-05-19,user-970,Performance updates are great! Just need a dark mode for better usability.,Positive
+FB-149,Support Ticket,2024-11-01,user-375,The upload limit needs to be addressed soon! It's quite an issue for me.,Negative
+FB-150,App Store Review,2025-02-02,user-460,Quick add is very helpful! It has improved my productivity a lot!,Positive
+FB-151,Survey,2025-03-06,user-189,Larger file uploads would really help my workflow! Please consider it.,Negative
+FB-152,Twitter Mention,2025-03-03,user-186,Can't wait for dark mode! It would make my experience so much better!,Positive
+FB-153,Support Ticket,2025-03-16,user-247,Automated backups would give me peace of mind! Hope to see this soon.,Neutral
+FB-154,App Store Review,2024-03-19,user-432,Performance is much improved! Just wish there was a dark mode available!,Neutral
+FB-155,Survey,2024-10-31,user-883,I love the quick add feature! It really speeds up my task management!,Positive
