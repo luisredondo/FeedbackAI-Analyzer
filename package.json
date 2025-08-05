@@ -4,9 +4,9 @@
   "description": "Intelligent customer feedback analysis with AI-powered chat interface",
   "scripts": {
     "dev": "npx concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
-    "dev:backend": "cd python-backend && PYTHONPATH=. uv run uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000",
+    "dev:backend": "cd backend && PYTHONPATH=. uv run uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000",
     "dev:frontend": "cd frontend && npm run dev",
-    "install:all": "cd python-backend && uv sync && cd ../frontend && npm install",
+    "install:all": "cd backend && uv sync && cd ../frontend && npm install",
     "build:frontend": "cd frontend && npm run build",
     "start:frontend": "cd frontend && npm start"
   },

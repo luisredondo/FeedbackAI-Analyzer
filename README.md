@@ -5,7 +5,6 @@
 
 ## 📋 Documentation
 - [📄 Project Deliverables](DELIVERABLES.md) - Complete challenge submission and technical decisions
-- [🔗 Merge Instructions](MERGE.md) - How to merge frontend and backend
 
 ## 🚀 Quick Start
 
@@ -25,7 +24,7 @@ cp .env.example .env
 # Edit .env with your API keys
 
 # Generate synthetic data
-cd python-backend && uv run python scripts/generate_data.py && cd ..
+cd backend && uv run python scripts/generate_data.py && cd ..
 
 # Start both backend and frontend
 npm run dev
@@ -43,11 +42,11 @@ npm run dev
 - **AI**: OpenAI GPT-4o-mini + Tavily web search
 
 ## 📊 Evaluation Results
-- [🔬 All Retrievers Results](python-backend/results/all_retrievers_results.md)
+- [🔬 All Retrievers Results](backend/results/all_retrievers_results.md)
 
 ### Run Evaluations
 ```bash
-cd python-backend
+cd backend
 
 # Quick evaluation
 uv run python evaluation/quick_eval.py
@@ -61,8 +60,8 @@ uv run python evaluation/run_all_retrievers.py
 
 ## 📁 Project Structure
 ```
-├── python-backend/               # FastAPI + LangGraph backend
-│   ├── backend/                 # Core application code
+├── backend/                     # Python FastAPI + LangGraph backend
+│   ├── app/                    # Core application code
 │   │   ├── agent/              # LangGraph agentic system
 │   │   │   ├── tools/          # Agent tools (RAG search, web search)
 │   │   │   └── storage/        # Vector storage (Qdrant integration)
@@ -72,14 +71,13 @@ uv run python evaluation/run_all_retrievers.py
 │   ├── results/                # Evaluation performance reports
 │   └── scripts/                # Utility scripts (data generation)
 ├── frontend/                    # Next.js chat interface
-├── DELIVERABLES.md             # Project documentation
-└── MERGE.md                    # Integration instructions
+└── DELIVERABLES.md             # Project documentation
 ```
 
 ## 🛠️ Development
 ```bash
 # Backend only
-cd python-backend && PYTHONPATH=. uv run uvicorn backend.main:app --reload
+cd backend && PYTHONPATH=. uv run uvicorn app.main:app --reload
 
 # Frontend only
 cd frontend && npm run dev
